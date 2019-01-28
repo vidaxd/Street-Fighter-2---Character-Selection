@@ -4,7 +4,6 @@
     <list default="true" id="2767f189-6a9c-4f8a-9d82-3a85a99d3ad4" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/StreetFighter2_CharacterSelection/SolutionTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myappi/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myappi/.idea/misc.xml" afterDir="false" />
@@ -13,6 +12,8 @@
       <change afterPath="$PROJECT_DIR$/../myappi/src/main/java/es/ulpgc/MyApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,25 +33,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="426" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="426" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
@@ -58,24 +59,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/StreetFighter2_CharacterSelection/SolutionTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+            <state relative-caret-position="322">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="528">
+              <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
               <folding>
-                <element signature="e#178#179#0" expanded="true" />
-                <element signature="e#205#206#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -97,10 +109,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/SolutionTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/StreetFighter2_CharacterSelection/Solution.java" />
         <option value="$PROJECT_DIR$/src/test/java/StreetFighter2_CharacterSelection/SolutionTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/Solution.java" />
       </list>
     </option>
   </component>
@@ -172,6 +185,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="StreetFighter2_CharacterSelection" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StreetFighter2_CharacterSelection" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="StreetFighter2_CharacterSelection" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -179,8 +200,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548702388192" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548705799664" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -199,6 +223,104 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingUp">
+    <configuration name="SolutionTest.shouldUseAll4DirectionsClockwiseTwice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreetFighter2_CharacterSelection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreetFighter2_CharacterSelection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StreetFighter2_CharacterSelection" />
+      <option name="MAIN_CLASS_NAME" value="StreetFighter2_CharacterSelection.SolutionTest" />
+      <option name="METHOD_NAME" value="shouldUseAll4DirectionsClockwiseTwice" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.shouldWorkWhenAlwaysMovingDown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreetFighter2_CharacterSelection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreetFighter2_CharacterSelection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StreetFighter2_CharacterSelection" />
+      <option name="MAIN_CLASS_NAME" value="StreetFighter2_CharacterSelection.SolutionTest" />
+      <option name="METHOD_NAME" value="shouldWorkWhenAlwaysMovingDown" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.shouldWorkWhenAlwaysMovingLeft" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreetFighter2_CharacterSelection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreetFighter2_CharacterSelection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StreetFighter2_CharacterSelection" />
+      <option name="MAIN_CLASS_NAME" value="StreetFighter2_CharacterSelection.SolutionTest" />
+      <option name="METHOD_NAME" value="shouldWorkWhenAlwaysMovingLeft" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.shouldWorkWhenAlwaysMovingRight" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreetFighter2_CharacterSelection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreetFighter2_CharacterSelection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StreetFighter2_CharacterSelection" />
+      <option name="MAIN_CLASS_NAME" value="StreetFighter2_CharacterSelection.SolutionTest" />
+      <option name="METHOD_NAME" value="shouldWorkWhenAlwaysMovingRight" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SolutionTest.shouldWorkWhenAlwaysMovingUp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StreetFighter2_CharacterSelection" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StreetFighter2_CharacterSelection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="StreetFighter2_CharacterSelection" />
+      <option name="MAIN_CLASS_NAME" value="StreetFighter2_CharacterSelection.SolutionTest" />
+      <option name="METHOD_NAME" value="shouldWorkWhenAlwaysMovingUp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingLeft" />
+      <item itemvalue="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingRight" />
+      <item itemvalue="JUnit.SolutionTest.shouldUseAll4DirectionsClockwiseTwice" />
+      <item itemvalue="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingDown" />
+      <item itemvalue="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingUp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingUp" />
+        <item itemvalue="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingDown" />
+        <item itemvalue="JUnit.SolutionTest.shouldUseAll4DirectionsClockwiseTwice" />
+        <item itemvalue="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingRight" />
+        <item itemvalue="JUnit.SolutionTest.shouldWorkWhenAlwaysMovingLeft" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -212,6 +334,29 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SolutionTest - 2019.01.28 at 19h 09m 34s.xml">
+      <configuration name="SolutionTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_shouldWorkWithNoMoves - 2019.01.28 at 19h 22m 21s.xml">
+      <configuration name="SolutionTest.shouldWorkWithNoMoves" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_shouldWorkWithFewMoves - 2019.01.28 at 19h 22m 25s.xml">
+      <configuration name="SolutionTest.shouldWorkWithFewMoves" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_shouldWorkWithFewMoves - 2019.01.28 at 19h 24m 43s.xml">
+      <configuration name="SolutionTest.shouldWorkWithFewMoves" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_shouldWorkWithFewMoves - 2019.01.28 at 19h 55m 05s.xml">
+      <configuration name="SolutionTest.shouldWorkWithFewMoves" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_shouldWorkWithFewMoves - 2019.01.28 at 19h 56m 03s.xml">
+      <configuration name="SolutionTest.shouldWorkWithFewMoves" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SolutionTest_shouldWorkWhenAlwaysMovingLeft - 2019.01.28 at 19h 58m 54s.xml">
+      <configuration name="SolutionTest.shouldWorkWhenAlwaysMovingLeft" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
@@ -221,15 +366,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.329718" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -250,13 +396,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/StreetFighter2_CharacterSelection/Solution.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/StreetFighter2_CharacterSelection/SolutionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
@@ -264,13 +403,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/es/ulpgc/StreetFighter2_CharacterSelection/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="528">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
           <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/StreetFighter2_CharacterSelection/SolutionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -278,9 +433,81 @@
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>StreetFighter2_CharacterSelection</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
